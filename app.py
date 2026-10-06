@@ -1,5 +1,5 @@
 a = 15
-b = 35
+b = 55
 
 print("A =", a)
 print("B =", b)
